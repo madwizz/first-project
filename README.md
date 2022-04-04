@@ -1,2 +1,3 @@
-# first-project
-How-to-Learn; Yandex Praktikum 1-st and 2-nd project-works
+# firstproject
+
+Проектная работа 1 "Научится учится" by Дмитрий Сапегин
