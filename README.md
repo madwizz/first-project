@@ -44,5 +44,4 @@
 
 ### Languages: 
 * HTML 
-* CSS 
->>>>>>> Stashed changes
+* CSS
