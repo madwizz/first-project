@@ -1,6 +1,5 @@
 @import url(./__cell/table__cell.css);
 @import url(./__cell/_theme/table__cell_theme_dark.css);
-@import url(./__heading/table__heading.css);
 
 .table {
     display: flex;
