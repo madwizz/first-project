@@ -1,0 +1,7 @@
+@import url(./__frame/video__iframe.css);
+@import url(./__iframes/video__iframes.css);
+
+.video {
+    padding-top: 100px;
+    background-image: linear-gradient(white 90%, #f2f2f2 10%);
+}
