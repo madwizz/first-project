@@ -18,7 +18,7 @@
 * HTML 
 * CSS 
 
-[Ссылка на сам проект на GitHub Pages](https://madwizz.github.io/first-project/)
+[Ссылка на сам проект на GitHub Pages](https://madwizz.github.io/how-to-learn-project/)
 
 ## Брифы: 
 * [Бриф №1](https://drive.google.com/file/d/1MVQEdu_WO0-7kq4744u1FAOQgbXyNDcG/view?usp=sharing) (Flexbox, Positioning Elements, advanced HTML and CSS) 
