@@ -28,7 +28,7 @@
 * [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html) 
 * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 
------
+------
 
 # Project work: "How to learn"
 
