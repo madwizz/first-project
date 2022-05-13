@@ -1,8 +1,8 @@
-# Проектная работа: "How to learn". Создана в рамках учебы в Яндекс.Практикум на факультете "Веб-разработчик".
+# Проектная работа: "How to learn".
 
 ## Описание: 
 
-"How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM. 
+"How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM. Создана в рамках учебы в Яндекс.Практикум на факультете "Веб-разработчик"
 
 ## Технологии: 
 
@@ -17,6 +17,8 @@
 ## Стек:
 * HTML 
 * CSS 
+
+[Ссылка на сам проект на GitHub Pages](https://madwizz.github.io/how-to-learn/)
 
 ## Брифы: 
 * [Бриф №1](https://drive.google.com/file/d/1MVQEdu_WO0-7kq4744u1FAOQgbXyNDcG/view?usp=sharing) (Flexbox, Positioning Elements, advanced HTML and CSS) 
