@@ -16,6 +16,8 @@
 * HTML 
 * CSS
 
+[Link to the page](https://madwizz.github.io/how-to-learn/)
+
 ---------------------
 
 # Проектная работа: "How to learn".
