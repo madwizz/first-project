@@ -4,7 +4,7 @@
 
 ### The work uses advanced HTML and CSS. 
 
-<img src="https://media.giphy.com/media/CuDH1upvsF5st5Mord/giphy.gif" width="426" height="240">
+### <img src="https://media.giphy.com/media/CuDH1upvsF5st5Mord/giphy.gif" width="426" height="240">
 
 ### Technologies: 
 * Flexbox 
