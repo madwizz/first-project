@@ -4,9 +4,9 @@
 
 ### The work uses advanced HTML and CSS. 
 
-<img src="https://media.giphy.com/media/CuDH1upvsF5st5Mord/giphy.gif" width="426px" height="240px">
+![how to learn](https://user-images.githubusercontent.com/101938387/216564883-858ab05f-006c-4de7-a856-18ec9b7c6397.gif)
 
-### Technologies: 
+### Technologies:
 * Flexbox 
 * Positioning Elements 
 * Animation and Transform using CSS 
