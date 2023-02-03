@@ -5,7 +5,7 @@
 ### The work uses advanced HTML and CSS. 
 
 <div id="header" align="center">
-<img src=![image](https://user-images.githubusercontent.com/101938387/216557966-42a4cdd7-255a-459f-88e9-8928e592791f.png) width="500" />
+<img src="https://user-images.githubusercontent.com/101938387/216557966-42a4cdd7-255a-459f-88e9-8928e592791f.png" width="500" />
 </div>
 
 ### Technologies: 
