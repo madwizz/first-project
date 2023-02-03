@@ -4,7 +4,7 @@
 
 ### The work uses advanced HTML and CSS. 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/CuDH1upvsF5st5Mord" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CuDH1upvsF5st5Mord">via GIPHY</a></p>
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.giphy.com/media/CuDH1upvsF5st5Mord/giphy.gif))
 
 ### Technologies: 
 * Flexbox 
