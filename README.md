@@ -4,9 +4,7 @@
 
 ### The work uses advanced HTML and CSS. 
 
-<div id="header" align="center">
 <img src="https://media.giphy.com/media/CuDH1upvsF5st5Mord/giphy.gif" width="500" />
-</div>
 
 ### Technologies: 
 * Flexbox 
