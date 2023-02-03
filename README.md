@@ -4,7 +4,7 @@
 
 ### The work uses advanced HTML and CSS. 
 
-![how to learn](https://user-images.githubusercontent.com/101938387/216564883-858ab05f-006c-4de7-a856-18ec9b7c6397.gif)
+![how to learn](https://user-images.githubusercontent.com/101938387/216567561-e4df6548-d9cf-41a0-8551-68ace1f6b5cf.gif)
 
 ### Technologies:
 * Flexbox 
