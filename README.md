@@ -1,6 +1,6 @@
 # Project work: "How to learn"
 
-## A typical one-page site created as part of a study at Yandex.Praktikum on a web development course.
+## A typical nonadaptive one-page site created as part of a study at Yandex.Praktikum on a web development course.
 
 ### The work uses advanced HTML and CSS. 
 
